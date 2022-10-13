@@ -66,5 +66,6 @@ describe('Practicing on eCommerce webpage', function () {
         cy.log('this line is for checking')
         cy.log('just adding another line')
         //line from cypress E2E
+        //second line
     })
 })
