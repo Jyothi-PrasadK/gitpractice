@@ -67,5 +67,6 @@ describe('Practicing on eCommerce webpage', function () {
         cy.log('just adding another line')
         //line from cypress E2E
         //second line
+        //this line is from gitDummy folder
     })
 })
