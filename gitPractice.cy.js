@@ -69,5 +69,6 @@ describe('Practicing on eCommerce webpage', function () {
         //second line
         //adding one more line
         //this line is from gitDummy folder
+        // new line
     })
 })
