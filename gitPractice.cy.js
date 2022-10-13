@@ -63,5 +63,6 @@ describe('Practicing on eCommerce webpage', function () {
             expect(success.includes('Success')).to.be.true
         })
         cy.log('code completed')
+        // 1 line added
     })
 })
