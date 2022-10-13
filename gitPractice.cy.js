@@ -65,6 +65,7 @@ describe('Practicing on eCommerce webpage', function () {
         cy.log('code completed')
         // 1 line added
         // 2 line added
+        // new line addded
         // line 3 from dummyGit
         // line 4 from gitPractice
     })
